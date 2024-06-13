@@ -1,0 +1,2 @@
+# Genetic Neural Network Optimizer
+This is a really simple and basic implementation of a genetic algorithm to train a neural network. However it is not fully functional on every aspect! It just genetically changes the neuron count on every layer and adds/removes layers but it doesn't do anything with biases or weights. So I call it a genetic NN optimizer.
